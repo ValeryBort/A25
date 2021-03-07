@@ -19,7 +19,3 @@ def test_chek_placeholder():
         time.sleep(3)
         driver.execute_script("window.scrollTo(0, window.scrollY + 500)")
         time.sleep(3)
-
-
-if __name__ == '__main__':
-    test_chek_placeholder()
